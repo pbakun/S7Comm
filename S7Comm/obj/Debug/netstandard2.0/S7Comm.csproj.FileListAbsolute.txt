@@ -1,0 +1,8 @@
+C:\_Moje\C#\S7CommApp\S7Comm\bin\Debug\netstandard2.0\S7Comm.deps.json
+C:\_Moje\C#\S7CommApp\S7Comm\bin\Debug\netstandard2.0\S7Comm.dll
+C:\_Moje\C#\S7CommApp\S7Comm\bin\Debug\netstandard2.0\S7Comm.pdb
+C:\_Moje\C#\S7CommApp\S7Comm\obj\Debug\netstandard2.0\S7Comm.csprojAssemblyReference.cache
+C:\_Moje\C#\S7CommApp\S7Comm\obj\Debug\netstandard2.0\S7Comm.AssemblyInfoInputs.cache
+C:\_Moje\C#\S7CommApp\S7Comm\obj\Debug\netstandard2.0\S7Comm.AssemblyInfo.cs
+C:\_Moje\C#\S7CommApp\S7Comm\obj\Debug\netstandard2.0\S7Comm.dll
+C:\_Moje\C#\S7CommApp\S7Comm\obj\Debug\netstandard2.0\S7Comm.pdb

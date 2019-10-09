@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "S7CommApp/1.0.0": {
+        "dependencies": {
+          "S7Comm": "1.0.0"
+        },
+        "runtime": {
+          "S7CommApp.dll": {}
+        }
+      },
+      "S7Comm/1.0.0": {
+        "runtime": {
+          "S7Comm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S7CommApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S7Comm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
